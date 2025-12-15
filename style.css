@@ -78,8 +78,9 @@ main {
 }
 
 .subtitle {
-    font-size: 1.1rem;
-    color: var(--text-light);
+    font-size: 1.5rem;
+    color:palevioletred;
+    font-family: cursive;
 }
 
 section {
